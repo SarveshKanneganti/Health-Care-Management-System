@@ -1,0 +1,201 @@
+﻿doctor_id,first_name,last_name,specialization,phone,email
+1,Lily,Chen,Gastroenterology,+1-579-265-4567,lily.chen940@proton.me
+2,Michael,Chen,Oncology,+1-331-418-9798,michael.chen79@health.org
+3,Mia,Nguyen,Psychiatry,+1-667-858-3633,mia.nguyen630@yahoo.com
+4,Ava,Moore,Endocrinology,+1-239-481-6918,ava.moore231@proton.me
+5,Amelia,Park,Pediatrics,+1-957-713-7715,amelia.park350@outlook.com
+6,Meera,Liu,Pulmonology,+1-954-667-4659,meera.liu661@gmail.com
+7,Lucas,Davis,Endocrinology,+1-902-231-9169,lucas.davis921@uconn.edu
+8,Samuel,Gupta,Pulmonology,+1-893-241-5062,samuel.gupta746@outlook.com
+9,Aarav,Miller,Dermatology,+1-526-722-6430,aarav.miller825@proton.me
+10,Joseph,Gonzalez,Ophthalmology,+1-985-752-6329,joseph.gonzalez109@uconn.edu
+11,James,Gupta,Gastroenterology,+1-570-485-6008,james.gupta34@yahoo.com
+12,Matthew,Gonzalez,Pulmonology,+1-387-658-2329,matthew.gonzalez598@yahoo.com
+13,Advait,Pham,Dermatology,+1-620-433-9463,advait.pham32@outlook.com
+14,Aria,Shah,Ophthalmology,+1-343-255-8671,aria.shah9@proton.me
+15,Aarav,Jones,Pulmonology,+1-669-772-5572,aarav.jones202@outlook.com
+16,Noah,Brown,Emergency Medicine,+1-898-864-6705,noah.brown368@outlook.com
+17,Sara,Reddy,Pulmonology,+1-527-473-5627,sara.reddy690@yahoo.com
+18,Meera,Williams,Oncology,+1-807-893-7769,meera.williams726@uconn.edu
+19,Avery,Verma,Gastroenterology,+1-738-750-3699,avery.verma896@uconn.edu
+20,Vihaan,Rodriguez,Pulmonology,+1-232-958-1634,vihaan.rodriguez781@gmail.com
+21,Avery,Rodriguez,Emergency Medicine,+1-483-222-6084,avery.rodriguez10@health.org
+22,Mason,Jones,Internal Medicine,+1-612-308-8267,mason.jones303@yahoo.com
+23,Zoe,Wang,Endocrinology,+1-486-297-1376,zoe.wang16@health.org
+24,Anaya,Martin,Endocrinology,+1-695-283-9549,anaya.martin419@proton.me
+25,Nora,Taylor,Pediatrics,+1-643-329-5789,nora.taylor983@yahoo.com
+26,Alexander,Wang,Cardiology,+1-776-761-7789,alexander.wang265@health.org
+27,Ethan,Garcia,Internal Medicine,+1-714-674-8638,ethan.garcia121@gmail.com
+28,Dia,Smith,Orthopedics,+1-534-674-1770,dia.smith161@yahoo.com
+29,Anaya,Jackson,Emergency Medicine,+1-972-229-8595,anaya.jackson230@outlook.com
+30,James,Rodriguez,Pediatrics,+1-633-991-9685,james.rodriguez676@proton.me
+31,Owen,Lim,Nephrology,+1-462-815-1980,owen.lim674@proton.me
+32,Anika,Wilson,Emergency Medicine,+1-433-725-2656,anika.wilson268@gmail.com
+33,Teja,Verma,Oncology,+1-958-712-3338,teja.verma610@uconn.edu
+34,Benjamin,Gupta,Nephrology,+1-490-678-1365,benjamin.gupta165@uconn.edu
+35,Henry,Kim,Internal Medicine,+1-896-396-1969,henry.kim952@gmail.com
+36,Mia,Liu,Neurology,+1-339-453-2371,mia.liu251@outlook.com
+37,Shivani,Taylor,Ophthalmology,+1-588-580-2587,shivani.taylor706@outlook.com
+38,Michael,Davis,Family Medicine,+1-808-282-8776,michael.davis377@proton.me
+39,Sophia,Johnson,Orthopedics,+1-977-671-5436,sophia.johnson248@outlook.com
+40,Oliver,Martinez,Dermatology,+1-899-680-5849,oliver.martinez826@proton.me
+41,Emma,Reddy,Orthopedics,+1-522-293-3536,emma.reddy142@proton.me
+42,Elijah,Davis,Internal Medicine,+1-311-852-2088,elijah.davis265@outlook.com
+43,Amelia,Park,Nephrology,+1-340-228-7212,amelia.park656@gmail.com
+44,Olivia,Wang,Internal Medicine,+1-611-865-4340,olivia.wang755@yahoo.com
+45,Sophia,Williams,Dermatology,+1-277-891-6067,sophia.williams181@yahoo.com
+46,Benjamin,Hernandez,Emergency Medicine,+1-648-869-5003,benjamin.hernandez803@proton.me
+47,Riya,Patel,Nephrology,+1-471-885-3229,riya.patel574@yahoo.com
+48,Aria,Das,Internal Medicine,+1-619-311-6122,aria.das853@gmail.com
+49,Ishaan,Lim,Psychiatry,+1-518-476-3321,ishaan.lim626@health.org
+50,Nora,Garcia,Endocrinology,+1-537-522-4434,nora.garcia872@outlook.com
+51,Hannah,Kumar,Endocrinology,+1-742-330-7041,hannah.kumar412@yahoo.com
+52,Sophia,Nguyen,Internal Medicine,+1-826-794-6094,sophia.nguyen872@outlook.com
+53,Ava,Lopez,Pulmonology,+1-399-555-7069,ava.lopez137@yahoo.com
+54,Samuel,Anderson,Nephrology,+1-257-910-4379,samuel.anderson524@outlook.com
+55,Ishaan,Reddy,Ophthalmology,+1-720-730-1495,ishaan.reddy176@health.org
+56,Scarlett,Johnson,Ophthalmology,+1-246-709-9330,scarlett.johnson324@proton.me
+57,Mia,Park,Emergency Medicine,+1-661-416-6909,mia.park841@health.org
+58,Benjamin,Jackson,Ophthalmology,+1-385-487-8755,benjamin.jackson367@yahoo.com
+59,Mason,Wang,Oncology,+1-480-779-7398,mason.wang293@outlook.com
+60,Benjamin,Park,Orthopedics,+1-637-489-1866,benjamin.park314@gmail.com
+61,Sophia,Das,Cardiology,+1-744-723-3223,sophia.das582@proton.me
+62,Mila,Martin,Endocrinology,+1-959-887-8495,mila.martin129@proton.me
+63,Zoe,Patel,Pulmonology,+1-673-807-4733,zoe.patel509@yahoo.com
+64,Sai,Tran,Dermatology,+1-497-868-7223,sai.tran887@health.org
+65,Emma,Park,Internal Medicine,+1-222-460-1399,emma.park125@yahoo.com
+66,Avery,Hernandez,Nephrology,+1-562-948-4245,avery.hernandez260@outlook.com
+67,Matthew,Das,Cardiology,+1-644-261-4646,matthew.das774@gmail.com
+68,Evelyn,Taylor,Oncology,+1-777-346-7506,evelyn.taylor451@gmail.com
+69,Harper,Patel,Emergency Medicine,+1-688-503-4297,harper.patel724@gmail.com
+70,Amelia,Gupta,Pulmonology,+1-334-580-1962,amelia.gupta223@gmail.com
+71,Vihaan,Anderson,Gastroenterology,+1-798-504-5039,vihaan.anderson710@health.org
+72,Advait,Lee,Endocrinology,+1-473-358-8535,advait.lee265@uconn.edu
+73,Aiden,Pham,Dermatology,+1-448-637-2487,aiden.pham703@yahoo.com
+74,Sai,Wang,Psychiatry,+1-624-943-5301,sai.wang584@outlook.com
+75,Scarlett,Martin,Psychiatry,+1-562-928-6800,scarlett.martin767@health.org
+76,Keerthi,Verma,Gastroenterology,+1-318-377-8350,keerthi.verma897@uconn.edu
+77,Sara,Gonzalez,Gastroenterology,+1-926-494-3354,sara.gonzalez505@gmail.com
+78,Hannah,Miller,Endocrinology,+1-348-899-5585,hannah.miller136@yahoo.com
+79,Vittal,Johnson,Family Medicine,+1-413-603-3119,vittal.johnson615@yahoo.com
+80,Ethan,Singh,Internal Medicine,+1-477-927-1498,ethan.singh419@proton.me
+81,Dia,Moore,Cardiology,+1-598-544-7006,dia.moore746@outlook.com
+82,Charlotte,Garcia,Family Medicine,+1-436-716-2301,charlotte.garcia387@uconn.edu
+83,Amelia,Johnson,Dermatology,+1-339-924-3150,amelia.johnson961@gmail.com
+84,Jack,Lee,Family Medicine,+1-865-498-6546,jack.lee489@gmail.com
+85,Samuel,Iyer,Family Medicine,+1-338-652-7881,samuel.iyer736@uconn.edu
+86,Mason,Chen,Pulmonology,+1-411-839-4443,mason.chen187@outlook.com
+87,Aria,Taylor,Orthopedics,+1-854-667-4170,aria.taylor840@yahoo.com
+88,Sara,Rodriguez,Gastroenterology,+1-421-822-7852,sara.rodriguez533@proton.me
+89,Dia,Park,Family Medicine,+1-552-322-1672,dia.park845@gmail.com
+90,Olivia,Rodriguez,Neurology,+1-651-974-3705,olivia.rodriguez502@gmail.com
+91,Isabella,Taylor,Orthopedics,+1-457-913-9551,isabella.taylor642@health.org
+92,Mila,Pham,Emergency Medicine,+1-551-421-9138,mila.pham995@proton.me
+93,Isabella,Patel,Ophthalmology,+1-454-314-1431,isabella.patel488@outlook.com
+94,Luna,Lopez,Cardiology,+1-772-399-2073,luna.lopez582@uconn.edu
+95,Aiden,Verma,Orthopedics,+1-781-570-1847,aiden.verma682@gmail.com
+96,Ethan,Lim,Orthopedics,+1-660-433-2727,ethan.lim479@yahoo.com
+97,Harper,Lim,Oncology,+1-481-287-6101,harper.lim911@yahoo.com
+98,Sebastian,Reddy,Cardiology,+1-906-664-7113,sebastian.reddy701@yahoo.com
+99,Matthew,Johnson,Endocrinology,+1-757-933-1303,matthew.johnson422@yahoo.com
+100,Olivia,Lee,Cardiology,+1-376-228-8824,olivia.lee155@proton.me
+101,Mia,Hernandez,Pulmonology,+1-798-970-5575,mia.hernandez535@gmail.com
+102,Luna,Lopez,Orthopedics,+1-916-531-7775,luna.lopez659@uconn.edu
+103,Dia,Williams,Family Medicine,+1-277-535-9455,dia.williams215@yahoo.com
+104,Sara,Verma,Dermatology,+1-569-656-1484,sara.verma472@gmail.com
+105,Oliver,Hernandez,Orthopedics,+1-764-738-9821,oliver.hernandez839@gmail.com
+106,Sophia,Das,Nephrology,+1-819-489-2098,sophia.das908@gmail.com
+107,Avery,Reddy,Cardiology,+1-951-486-2994,avery.reddy978@yahoo.com
+108,William,Johnson,Cardiology,+1-840-759-7933,william.johnson526@proton.me
+109,Mason,Iyer,Endocrinology,+1-696-532-6581,mason.iyer801@health.org
+110,Advait,Nguyen,Dermatology,+1-546-788-2588,advait.nguyen602@gmail.com
+111,Alexander,Reddy,Cardiology,+1-648-380-5064,alexander.reddy634@outlook.com
+112,Layla,Shah,Psychiatry,+1-602-331-8296,layla.shah694@outlook.com
+113,Noah,Liu,Neurology,+1-753-327-5719,noah.liu107@outlook.com
+114,Dia,Rodriguez,Cardiology,+1-431-866-5430,dia.rodriguez813@outlook.com
+115,Anika,Kumar,Ophthalmology,+1-905-465-7575,anika.kumar699@gmail.com
+116,Evelyn,Miller,Oncology,+1-878-398-5847,evelyn.miller268@proton.me
+117,Matthew,Gonzalez,Nephrology,+1-493-309-7975,matthew.gonzalez926@uconn.edu
+118,Sai,Singh,Oncology,+1-234-652-7872,sai.singh992@outlook.com
+119,Owen,Liu,Gastroenterology,+1-568-745-6155,owen.liu920@health.org
+120,Hannah,Moore,Psychiatry,+1-969-288-1894,hannah.moore981@gmail.com
+121,Layla,Das,Oncology,+1-639-496-2501,layla.das155@health.org
+122,Michael,Chatterjee,Psychiatry,+1-792-660-9814,michael.chatterjee669@yahoo.com
+123,Joseph,Kumar,Orthopedics,+1-253-274-3623,joseph.kumar485@proton.me
+124,Lucas,Pham,Orthopedics,+1-958-472-6838,lucas.pham442@gmail.com
+125,Advait,Lee,Endocrinology,+1-464-452-8185,advait.lee949@yahoo.com
+126,Jack,Smith,Pediatrics,+1-499-240-8904,jack.smith3@proton.me
+127,Aarav,Park,Orthopedics,+1-269-721-8324,aarav.park353@proton.me
+128,Zoe,Gupta,Pulmonology,+1-642-913-3286,zoe.gupta183@uconn.edu
+129,Anika,Brown,Nephrology,+1-942-362-8694,anika.brown685@yahoo.com
+130,Elijah,Reddy,Pulmonology,+1-344-572-7379,elijah.reddy121@proton.me
+131,Vittal,Chen,Family Medicine,+1-455-204-1440,vittal.chen159@gmail.com
+132,Aiden,Reddy,Oncology,+1-789-557-2886,aiden.reddy519@health.org
+133,Zoe,Anderson,Family Medicine,+1-385-548-7362,zoe.anderson313@health.org
+134,Mila,Johnson,Cardiology,+1-941-200-6466,mila.johnson553@uconn.edu
+135,Anand,Wang,Pulmonology,+1-617-869-1756,anand.wang218@uconn.edu
+136,Anaya,Wilson,Cardiology,+1-475-274-5028,anaya.wilson924@yahoo.com
+137,Shivani,Gupta,Dermatology,+1-328-802-9447,shivani.gupta194@health.org
+138,Aria,Das,Gastroenterology,+1-831-895-8271,aria.das274@uconn.edu
+139,Chidroop,Chatterjee,Nephrology,+1-710-244-7982,chidroop.chatterjee755@gmail.com
+140,Ava,Johnson,Oncology,+1-586-301-5554,ava.johnson962@outlook.com
+141,Sai,Thomas,Orthopedics,+1-252-484-2299,sai.thomas33@proton.me
+142,Sara,Wang,Pediatrics,+1-596-773-8170,sara.wang202@outlook.com
+143,Mia,Singh,Orthopedics,+1-919-669-8154,mia.singh933@uconn.edu
+144,Noah,Garcia,Ophthalmology,+1-689-924-9024,noah.garcia914@outlook.com
+145,Teja,Martin,Nephrology,+1-532-461-7138,teja.martin757@gmail.com
+146,Keerthi,Liu,Neurology,+1-736-352-5759,keerthi.liu125@proton.me
+147,Anika,Nguyen,Gastroenterology,+1-268-480-3790,anika.nguyen315@proton.me
+148,Mason,Liu,Dermatology,+1-265-456-2783,mason.liu643@yahoo.com
+149,Sara,Lee,Endocrinology,+1-377-628-4395,sara.lee482@uconn.edu
+150,Aadhya,Taylor,Emergency Medicine,+1-284-848-3638,aadhya.taylor177@uconn.edu
+151,Harper,Wilson,Gastroenterology,+1-799-736-3608,harper.wilson591@yahoo.com
+152,Amelia,Kumar,Psychiatry,+1-672-915-3013,amelia.kumar15@gmail.com
+153,Elijah,Rodriguez,Emergency Medicine,+1-496-935-5474,elijah.rodriguez7@health.org
+154,Michael,Taylor,Ophthalmology,+1-664-694-2164,michael.taylor430@outlook.com
+155,Zoe,Moore,Internal Medicine,+1-675-865-7223,zoe.moore974@health.org
+156,Mila,Smith,Pediatrics,+1-761-803-4779,mila.smith428@outlook.com
+157,Owen,Garcia,Ophthalmology,+1-902-956-6080,owen.garcia412@gmail.com
+158,Zoe,Chatterjee,Emergency Medicine,+1-883-660-7545,zoe.chatterjee504@proton.me
+159,Meera,Patel,Nephrology,+1-643-594-7567,meera.patel737@proton.me
+160,Chidroop,Taylor,Oncology,+1-775-561-3059,chidroop.taylor48@proton.me
+161,Olivia,Liu,Emergency Medicine,+1-550-856-3288,olivia.liu951@health.org
+162,Samuel,Das,Pediatrics,+1-528-389-2156,samuel.das902@outlook.com
+163,Mason,Patel,Cardiology,+1-838-750-9509,mason.patel587@outlook.com
+164,Mason,Kim,Family Medicine,+1-713-699-3352,mason.kim572@uconn.edu
+165,Avery,Patel,Pediatrics,+1-345-370-1081,avery.patel283@health.org
+166,Lily,Jones,Emergency Medicine,+1-570-908-1665,lily.jones568@health.org
+167,Nora,Lee,Family Medicine,+1-749-678-4803,nora.lee847@uconn.edu
+168,Vihaan,Kim,Neurology,+1-235-263-7224,vihaan.kim283@health.org
+169,Teja,Chen,Family Medicine,+1-642-407-1613,teja.chen425@outlook.com
+170,James,Hernandez,Pulmonology,+1-453-256-4178,james.hernandez264@gmail.com
+171,Mia,Nguyen,Gastroenterology,+1-444-447-1324,mia.nguyen581@yahoo.com
+172,Vittal,Garcia,Internal Medicine,+1-720-469-1351,vittal.garcia821@gmail.com
+173,Layla,Iyer,Pediatrics,+1-531-551-9569,layla.iyer545@uconn.edu
+174,Mason,Kumar,Dermatology,+1-496-564-3514,mason.kumar714@yahoo.com
+175,Owen,Gupta,Internal Medicine,+1-483-397-7751,owen.gupta77@outlook.com
+176,Matthew,Verma,Ophthalmology,+1-665-924-9573,matthew.verma355@outlook.com
+177,Elijah,Kumar,Internal Medicine,+1-785-759-4272,elijah.kumar981@proton.me
+178,Vihaan,Liu,Oncology,+1-291-872-4957,vihaan.liu948@health.org
+179,Scarlett,Iyer,Neurology,+1-832-642-5054,scarlett.iyer936@proton.me
+180,Ishaan,Wilson,Pulmonology,+1-788-563-9801,ishaan.wilson730@uconn.edu
+181,Lily,Taylor,Internal Medicine,+1-746-344-6357,lily.taylor670@proton.me
+182,Advait,Singh,Ophthalmology,+1-325-814-2816,advait.singh710@gmail.com
+183,Dia,Das,Family Medicine,+1-634-817-6022,dia.das882@outlook.com
+184,Aarav,Chen,Neurology,+1-372-806-4210,aarav.chen972@health.org
+185,Layla,Nguyen,Pediatrics,+1-737-570-2915,layla.nguyen442@yahoo.com
+186,Mason,Park,Oncology,+1-692-778-1796,mason.park445@yahoo.com
+187,Mia,Smith,Family Medicine,+1-706-278-1952,mia.smith953@health.org
+188,Advait,Lim,Dermatology,+1-892-330-1147,advait.lim759@health.org
+189,Oliver,Nguyen,Emergency Medicine,+1-303-331-3034,oliver.nguyen163@proton.me
+190,Dia,Patel,Emergency Medicine,+1-242-849-5489,dia.patel586@gmail.com
+191,Vittal,Iyer,Gastroenterology,+1-512-940-5434,vittal.iyer176@proton.me
+192,Nora,Lopez,Family Medicine,+1-600-544-7963,nora.lopez97@gmail.com
+193,Nora,Wilson,Emergency Medicine,+1-417-894-6780,nora.wilson617@yahoo.com
+194,Ava,Kim,Family Medicine,+1-949-334-7279,ava.kim194@outlook.com
+195,Harper,Kumar,Orthopedics,+1-293-483-1237,harper.kumar552@health.org
+196,James,Brown,Emergency Medicine,+1-520-809-9635,james.brown322@proton.me
+197,Keerthi,Jackson,Internal Medicine,+1-363-262-3312,keerthi.jackson281@health.org
+198,Sharan,Jackson,Endocrinology,+1-971-554-1807,sharan.jackson195@outlook.com
+199,Mason,Moore,Dermatology,+1-963-814-4479,mason.moore779@gmail.com
+200,Riya,Thomas,Family Medicine,+1-798-855-8628,riya.thomas56@uconn.edu
