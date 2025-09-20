@@ -1,5 +1,5 @@
 📌 Project Overview
-This project focuses on designing and analyzing a Health Care Management System using MySQL. The database simulates real-world hospital operations through seven interconnected datasets: patients, doctors, visits, diagnoses, prescriptions, lab_results, and billing. The goal is to demonstrate database design, SQL querying, and healthcare analytics capabilities.
+This project focuses on designing and analyzing a Health Care Management System using MySQL. The database simulates real-world hospital operations through seven interconnected datasets: patients, doctors,visits, diagnoses, prescriptions, lab_results, and billing. The goal is to demonstrate database design, SQL querying, and healthcare analytics capabilities.
 
 🗂️ Database Design
 The database, named health_db, is structured to capture the end-to-end hospital workflow:
