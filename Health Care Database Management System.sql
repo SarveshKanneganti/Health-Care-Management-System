@@ -26,7 +26,7 @@ decision-making.
     * Missing values
     * 'NaN' entries
     * Inconsistent formats
-- Cleaned files were then prepared for import into PostgreSQL using the COPY command.
+- Cleaned files were then prepared for import into MYSQL using the Table Data Import Wizard.
 - Ensured UTF-8 encoding and proper column alignment.
 
 3. Project Objectives
@@ -155,6 +155,8 @@ CREATE TABLE billing (
   paid_date          DATE NULL,
   payment_method     ENUM('Card','Cash','Online','InsuranceOnly') NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--Cleaned and refined the datasets in Excel, then successfully imported them into the health_db database via MySQL Table Data Import Wizard for analysis
 
 /* ------------------------------------- Task 2:- Basic & Advanced Analysis ----------------------------- */
 
